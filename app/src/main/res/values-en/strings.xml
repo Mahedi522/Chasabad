@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Chashabad</string>
+    <string name="guide_text">For Information Tap on Image</string>
+    <string name="lang_btn_text">বাংলা</string>
+    <string name="title_activity_seed">Onion seed</string>
+    <string name="seed_text">
+        "Onions are considered a cool-season vegetable."
+        "But they can be planted at two different times of the year, depending upon growing zone."
+        "After planting seeds, keep the soil moist at all times."
+        "Seeds capable of germinating contain both an embryo and food reserves within their protective seed coat."
+        "Soil moisture softens the seed coat and enters the seed through a process call imbibition."
+        "Once inside the seed, the moisture triggers cellular respiration and metabolization of the food reserves."
+        "seeds germinate in about ten days."
+
+    </string>
+    <string name="seedling_text">
+    	"The first stage of germination is radicle emergence."
+        "The radicle anchors the seed in place and supports the growing seedling."
+        "The radicle collects moisture and nutrients to sustain plant growth."
+        "The sprout emerges through the weakened seed covering, eventually breaking the soil’s surface."
+        "Soon after, the first real leaves appear, resembling a smaller and fleshier version of the plant’s mature leaves, signifying a shift in the plant’s development as the seedling begins to obtain energy through photosynthesis."
+
+    </string>
+    <string name="vine_text">
+       "At this stage, the small onion plant begins to build its root system."
+        "The seedling produces more roots and a few more adult leaves before initiating rapid vegetative growth."
+
+        "The leaves of an onion develop swiftly during vegetative growth."
+        "Onions starts with just a few leaves, grow eight to ten healthy leaves in weeks."
+        "The leaf development stops when the onion is ready to produce the bulb."
+    </string>
+    <string name="flower_text">
+        "When developing onions have at least four leaves, they are ready to put their energy toward bulb production."
+        "The existing leaves continue to grow and elongate, increasing the available surface area for photosynthesis."
+        "Each leaf represents a scale that eventually becomes one of the bulb’s rings."
+        "The leaf sheaths swell to form the central storage tissue of the bulbs."
+        "After a few weeks, the onion’s bulb emerges from the ground, revealing the onion’s top."
+        "Onions are ready for harvest when the tops become droopy and turn brown."
+
+    </string>
+    <string name="fruit_text">
+       "After 70 – 90 days, onions are fully mature and ready to harvest."
+        "Onions reach optimal growth right before they reach maturity — when the bulbs are just starting to develop and the tops are the width of a pencil."
+        "Onions can still be picked after that, but mature green onions have a spicier flavor."
+
+    </string>
+    <string name="cucumber_text">
+       "If onions are not harvested and left in the ground during the winter, they will regrow in the spring."
+        "The underground bulbs are already fibrous and woody at this point."
+        "Because the root system was established the previous year, the plant can focus its entire energy on sending up new shoots to emerge through the soil surface. "
+        "The air and soil temperatures rise as the weather warms, and the plant begins to bolt."
+        "Bolting refers to the crop suddenly growing a flowering stalk."
+        "When this happens, the plant abruptly stops vegetative growth and prepares for the end of its life cycle."
+        "Buds appear once the stalk has fully matured and the top of the plant blooms with a white or purple flower."
+        "Birds, bees, and butterflies pollinate the colorful, round flower heads containing seeds. After the seeds appear, the onion plant’s life cycle is complete."
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seedling">Germination</string>
+    <string name="title_activity_vine">Vegetative</string>
+    <string name="title_activity_flower">Bulb Formation</string>
+    <string name="title_activity_fruit">Maturation</string>
+    <string name="title_activity_cucumber">Reproduction</string>
+    <string name="title_text">Life Cycle of Onion</string>
+</resources>
